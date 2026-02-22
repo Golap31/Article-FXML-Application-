@@ -7,3 +7,4 @@ Article Type - Must be one of the following: “Review”, “Book”, “Case�
 Publication Date - The date when this article was published.
 Citation Status - Must be one of the following: “Yes”, “No”. Use a checkbox for this field.
 No of Authors - Number of authors of the article.
+All this information will be shown in Table View. 
